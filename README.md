@@ -23,10 +23,8 @@ Such as...
 - How many mails per day should the extensio send.
 - In the e-mail reminder can also be included some links to top topics of the user (_if he had any_) and some of the top topics of the board.
 - Two different templates. Depending on the members condition.
-
 ..* A riminder to users that have come back
 ..* A reminder for users that have never returned after registration.
-
 - List to exclude forums that should not be included in the reminder.
 - If user does not return there is an option of autodeletion (after set amount of days).
 - Option for the user to selfdelete his acount
