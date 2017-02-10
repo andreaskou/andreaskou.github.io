@@ -1,19 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/andreaskou/andreaskou.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a simple page, playing arround with github...
+You can ither read it or you can leave and forget about it! :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What am I doing here?
 
-### Markdown
+Unfortunately not much.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+I've got a small [repository](https://github.com/andreaskou/PHPBB_IUM), a small extention for [PHPBB](https://www.phpbb.com).
+And a second one that is just for recriational reasons 
 
 - Bulleted
 - List
