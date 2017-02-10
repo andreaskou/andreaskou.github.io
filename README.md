@@ -18,6 +18,7 @@ It sends reminders to users that don't come back after a while or to users that 
 There are several options to choose from.
 
 Such as...
+
 - The amount of days to consider a member as _inactive_.
 - How many mails per day should the extensio send.
 - In the e-mail reminder can also be included some links to top topics of the user (_if he had any_) and some of the top topics of the board.
