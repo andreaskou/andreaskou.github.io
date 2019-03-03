@@ -1,7 +1,7 @@
 {
     "stable": {
         "1.0.2-rc": {
-            "current": "1.0.2-rc",
+            "current": "1.0.1-rc",
             "announcement": "https://andreaskou.github.io/announcement",
             "download": "https://github.com/andreaskou/PHPBB_IUM/archive/1.0.1-rc.2.zip",
             "eol": null,
