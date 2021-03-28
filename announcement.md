@@ -2,6 +2,6 @@
 
 Hello,
 
-The latest Release Candidate (1.1.3) has been submited for validation
+The latest Release Candidate (1.1.9) will be soon submited for validation
 If no problems will be discovered the extension will be official!
 Crossing my fingers! :)
